@@ -4,7 +4,7 @@ A simple, lightweight notes app built with **vanilla HTML, CSS, and JavaScript**
 
 > 🎓 **This is a learning project.** It was built to practice core front-end fundamentals, so the design is intentionally simple and there are known security limitations (see [Known Issues](#-known-issues--limitations)).
 
-🔗 **Live Demo:** [YOUR_LIVE_LINK_HERE](YOUR_LIVE_LINK_HERE)
+🔗 **Live Demo:** [https://inaciomills7.github.io/Quick-Note/](https://inaciomills7.github.io/Quick-Note/)
 
 ---
 
@@ -57,10 +57,10 @@ No build tools or dependencies required.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/inaciomills7/Quick-Note.git
 
 # 2. Go into the project folder
-cd YOUR_REPO_NAME
+cd Quick-Note
 
 # 3. Open index.html in your browser
 ```
